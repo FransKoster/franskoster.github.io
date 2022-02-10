@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welkom!
 
-You can use the [editor on GitHub](https://github.com/FransKoster/franskoster.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Ik ben Frans Koster, al meer dan 25 jaar actief als IT'er. Na mijn studie Computertechniek heb ik in verschillende rollen bij grote en kleine bedrijven gewerkt. Van oorsprong een echte Ops'er met voorkeur voor Linux en java omgevingen. De eerste installatie van een Unix systeem vanaf tape kostte mij zeker een dag. Het mooie van deze tijd is de grote beschikbaarheid van open tools en de vergaande virtualisering van componenten. Door gebruik te maken van de huidige mogelijkheden is een server installatie teruggebracht tot minuten of zelfs seconden, of we deployen serverless... Mede hierdoor is ook mijn manier van werken sterk veranderd. Eerst als Ops'er in een Dev team en door het toepassen van een Dev workflow (zoals Infrastructure As Code) is mijn rol steeds meer verschoven naar DevOps Engineer. Door de ervaring met het veranderen van de technische omgeving kwam ook de ervaring met de veranderende cultuur en werkwijze van teams. Deze veranderingen houden het werk boeiend!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Kenmerken
+**Veranderen**
+Door met meerdere teams de devOps reis te hebben ervaren kan ik nieuwe teams coachen in een devOps werkwijze.
 
-### Markdown
+**Kennisdelen**
+Door ervaring weet ik veel van IT, maar er is nog veel meer dat ik niet weet. Het is prettig om kennis eigen te maken en dan te delen door presentaties of samenwerken.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Techniek**
+Uiteindelijk ben ik een techneut en zal mijn werk altijd een sterke technische component hebben. Met een goede mix van mens en techniek ben ik op zijn best!
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FransKoster/franskoster.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Ervaring
+#### Omgeving
+Enterprise, Financiele Dienstverlening (Achmea, Rabobank) en logistieke bedrijven (Nederlandse Spoorwegen, DHL). Ook bij Kamer van Koophandel, Iddink, Movares en een groot aantal projecten bij diverse mkb bedrijven.
+#### Technieken
+- Cloud: Azure, AWS
+- Containers: Kubernetes, Docker, Mesos
+- CI/CD: Jenkins, Azure Devops, Github Actions
+- Monitoring: ELK, prometheus, grafana
+- Java applicatieservers
+- Linux (RedHat, Debian)
